@@ -3,7 +3,7 @@ def introduce():
 
 
 def joke():
-    print("Knock! Knock!\nWho’s there?\nSays.\nSays who?\nSays me, that’s who!")
+    print("Knock!asdtest Knock!\nWho’s there?\nSays.\nSays?\nSays me, that’s who!")
 
 
 print("valami")
