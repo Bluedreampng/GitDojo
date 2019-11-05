@@ -4,7 +4,7 @@ def introduce():
 print("másik valami")
 
 def joke():
-    print("Knock! Knock!\nWho’s there?\nSays.\nSays penus who?\nSays me, that’s who!")
+    print("Knock!asdtest Knock!\nWho’s there?\nSays.\nSays?\nSays me, that’s who!")
 
 
 print("valami")
